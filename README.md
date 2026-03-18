@@ -4,7 +4,7 @@ Submitted by: **Quinn Redwoods**
 
 About this web app: **A conference app for the fictional "CodePath Grader Conf" — browse rooms, view scheduled talks, and filter events by location or day. Features a visual SVG map for selecting venues and live countdown timers for upcoming events.**
 
-Time spent: **5** hours
+Time spent: **8** hours
 
 ## Required Features
 
@@ -36,7 +36,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![smallconfcodepathsite](https://github.com/user-attachments/assets/a137eef0-df2d-4175-81a6-1df2933749c6)
+
 
 GIF created with LiceCap
 

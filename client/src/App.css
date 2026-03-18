@@ -1,20 +1,19 @@
 .app {
-    background: url('./assets/unitygrid.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
+    min-height: 100vh;
 }
 
 header {
-    padding: 50px;
+    padding: 20px 50px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
+.main-header h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
 .main-header {
-    height: 30vh;
     width: 85vw;
     align-items: flex-end;
     position: relative;

@@ -3,6 +3,8 @@
     justify-content: center;
     margin-left: 50px;
     margin-right: 50px;
+    overflow: hidden;
+    max-height: 70vh;
 }
 
 svg {
@@ -26,7 +28,7 @@ svg polygon:hover {
     z-index: 10;
     position: relative;
     top: 15%;
-    left: -5%;
+    left: 2%;
 }
 
 .venue2-button-overlay {
@@ -38,7 +40,7 @@ svg polygon:hover {
     opacity: 0;
     z-index: 10;
     position: relative;
-    left: 30%;
+    left: 20%;
 }
 
 .venue4-button-overlay {

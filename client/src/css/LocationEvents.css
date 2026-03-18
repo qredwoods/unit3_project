@@ -3,6 +3,9 @@
     display: flex;
     flex-direction: column;
     flex-wrap: no-wrap;
+    background: url('../assets/unitygrid.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
 }
 
 .location-events header {
@@ -18,6 +21,7 @@
     border: 1px solid white;
     margin-left: 20px;
 }
+
 
 .location-events header p {
     color: white;
@@ -36,4 +40,14 @@
 
 .location-events main i {
     margin-right: 10px;
+}
+
+.filters {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.filters select {
+    width: 200px;
 }
